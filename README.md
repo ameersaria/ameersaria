@@ -1,4 +1,4 @@
-![logo](https://github.com/ameersaria/ameersaria/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
+![logo](https://github.com/ameersaria/ameersaria/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Ameer Saria</h1>
 <h3 align="center">A passionate Frontend Developer 👨‍💻 from Pakistan</h3>
